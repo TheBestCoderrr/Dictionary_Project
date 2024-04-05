@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j11JHT1fMtT+6AZDCcU0G9cSq0DAQnjwdUpldNKyh/kQYrHo5wAdYhSm8kGGQT3U5nkXCj0gBU5iTyob/69xeg==",
+  "success": true,
+  "projectFilePath": "G:\\C#\\Dictionary_Project\\Dictionary_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\binaryformatter\\3.0.0\\binaryformatter.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

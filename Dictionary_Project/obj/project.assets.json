@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BinaryFormatter/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/BinaryFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BinaryFormatter.dll": {}
+        }
+      },
+      "Bogus/35.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SoapFormatter/1.1.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryFormatter/3.0.0": {
+      "sha512": "hbfl4AUJLkg1D8f1j5IPg2zNResZalewzfMt86So/NzNS86xBMU4JmcMk7BN4KKSWK6nRR4GOALDxn44Dc8s5A==",
+      "type": "package",
+      "path": "binaryformatter/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "binaryformatter.3.0.0.nupkg.sha512",
+        "binaryformatter.nuspec",
+        "lib/netcoreapp2.1/BinaryFormatter.dll",
+        "lib/netstandard1.1/BinaryFormatter.dll",
+        "lib/netstandard2.0/BinaryFormatter.dll"
+      ]
+    },
+    "Bogus/35.5.0": {
+      "sha512": "iCXszbIvvxgfb01bPe/s3R6pQSKX6rpcQWqM7wqDt+lsMogR6fkSWBwqOxLpdXmMB7mgZNNk2hm2M1shoIiekA==",
+      "type": "package",
+      "path": "bogus/35.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bogus.35.5.0.nupkg.sha512",
+        "bogus.nuspec",
+        "lib/net40/Bogus.dll",
+        "lib/net40/Bogus.xml",
+        "lib/net6.0/Bogus.dll",
+        "lib/net6.0/Bogus.xml",
+        "lib/netstandard1.3/Bogus.dll",
+        "lib/netstandard1.3/Bogus.xml",
+        "lib/netstandard2.0/Bogus.dll",
+        "lib/netstandard2.0/Bogus.xml"
+      ]
+    },
+    "SoapFormatter/1.1.9": {
+      "sha512": "9okRnHpuoOKlTlxid6sddSjZ0OVGbK4EjSf3VvxOLnQfTkV3iGZzSQa2ZYYuD+apairVrPqwZ3lPvcFqR8b7Kw==",
+      "type": "package",
+      "path": "soapformatter/1.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.1.9.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "BinaryFormatter >= 3.0.0",
+      "Bogus >= 35.5.0",
+      "SoapFormatter >= 1.1.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\C#\\Dictionary_Project\\Dictionary_Project.csproj",
+      "projectName": "Dictionary_Project",
+      "projectPath": "G:\\C#\\Dictionary_Project\\Dictionary_Project.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "G:\\C#\\Dictionary_Project\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "BinaryFormatter": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          },
+          "Bogus": {
+            "target": "Package",
+            "version": "[35.5.0, )"
+          },
+          "SoapFormatter": {
+            "target": "Package",
+            "version": "[1.1.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

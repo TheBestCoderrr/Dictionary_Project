@@ -1,0 +1,353 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <SOAP-ENC:Array id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:WordsList[33]">
+      <item href="#ref-2" />
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+      <item href="#ref-9" />
+      <item href="#ref-10" />
+      <item href="#ref-11" />
+      <item href="#ref-12" />
+      <item href="#ref-13" />
+      <item href="#ref-14" />
+      <item href="#ref-15" />
+      <item href="#ref-16" />
+      <item href="#ref-17" />
+      <item href="#ref-18" />
+      <item href="#ref-19" />
+      <item href="#ref-20" />
+      <item href="#ref-21" />
+      <item href="#ref-22" />
+      <item href="#ref-23" />
+      <item href="#ref-24" />
+      <item href="#ref-25" />
+      <item href="#ref-26" />
+      <item href="#ref-27" />
+      <item href="#ref-28" />
+      <item href="#ref-29" />
+      <item href="#ref-30" />
+      <item href="#ref-31" />
+      <item href="#ref-32" />
+      <item href="#ref-33" />
+      <item href="#ref-34" />
+    </SOAP-ENC:Array>
+    <a1:WordsList id="ref-2" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>А</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-35" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Б</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-36" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>В</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-37" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Г</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-38" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ґ</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-39" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Д</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-40" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Е</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-41" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Є</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-42" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ж</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-43" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>З</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-44" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>И</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-45" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>І</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-46" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ї</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-47" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Й</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-48" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>К</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-49" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Л</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-50" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>М</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-51" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Н</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-52" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>О</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-53" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>П</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-54" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-22" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Р</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-55" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>С</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-56" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Т</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-57" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>У</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-58" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ф</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-59" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-27" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Х</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-60" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-28" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ц</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-61" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-29" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ч</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-62" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-30" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ш</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-63" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-31" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Щ</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-64" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-32" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ь</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-65" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-33" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Ю</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-66" />
+    </a1:WordsList>
+    <a1:WordsList id="ref-34" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Key_x003E_k__BackingField>Я</_x003C_Key_x003E_k__BackingField>
+      <words href="#ref-67" />
+    </a1:WordsList>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-35" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-68" />
+      <_size>1</_size>
+      <_version>1</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-36" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-37" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-38" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-39" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-40" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-41" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-42" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-43" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-44" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-45" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-46" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-47" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-48" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-49" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-50" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-51" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-52" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-53" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-54" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-55" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-56" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-57" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-58" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-59" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-60" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-61" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-62" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-63" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-64" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-65" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-66" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-67" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Dictionary_Project.Word%2C%20Dictionary_Project%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-69" />
+      <_size>0</_size>
+      <_version>0</_version>
+    </a2:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-68" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:Word[4]">
+      <item href="#ref-70" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-69" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:Word[0]">
+    </SOAP-ENC:Array>
+    <a1:Word id="ref-70" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Dictionary_Project/Dictionary_Project%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_originalWord_x003E_k__BackingField id="ref-71">Акула</_x003C_originalWord_x003E_k__BackingField>
+      <_x003C_translation_x003E_k__BackingField href="#ref-72" />
+    </a1:Word>
+    <a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_ id="ref-72" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[System.String%2C%20System.Private.CoreLib%2C%20Version%3D7.0.0/System.Private.CoreLib%2C%20Version%3D7.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-73" />
+      <_size>1</_size>
+      <_version>1</_version>
+    </a3:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_7cec85d7bea7798e_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-73" SOAP-ENC:arrayType="SOAP-ENC:string[4]">
+      <item id="ref-74">Shark</item>
+    </SOAP-ENC:Array>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
